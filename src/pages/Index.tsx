@@ -2,6 +2,7 @@ import Navigation from "@/components/Navigation";
 import Hero from "@/components/Hero";
 import HowItWorks from "@/components/HowItWorks";
 import Features from "@/components/Features";
+import PlatformDemo from "@/components/PlatformDemo";
 import Benefits from "@/components/Benefits";
 import Challenges from "@/components/Challenges";
 import FutureScope from "@/components/FutureScope";
@@ -18,6 +19,9 @@ const Index = () => {
         </section>
         <section id="features">
           <Features />
+        </section>
+        <section id="demo">
+          <PlatformDemo />
         </section>
         <section id="benefits">
           <Benefits />
