@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import heroImage from "@/assets/your-new-image.jpg";
+import heroImage from "@/assets/hero-agriculture-tech.jpg";
 import { Sprout, Shield, Brain, Users } from "lucide-react";
 
 const Hero = () => {
